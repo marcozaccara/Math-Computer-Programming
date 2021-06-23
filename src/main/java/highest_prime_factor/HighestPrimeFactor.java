@@ -1,4 +1,4 @@
-package highestprimefactor;
+package highest_prime_factor;
 
 /*
 https://projecteuler.net/problem=3

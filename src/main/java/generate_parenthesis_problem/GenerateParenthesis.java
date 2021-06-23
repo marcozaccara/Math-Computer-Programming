@@ -1,4 +1,4 @@
-package generateparenthesisproblem;
+package generate_parenthesis_problem;
 
 import java.util.List;
 

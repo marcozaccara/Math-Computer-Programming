@@ -1,4 +1,4 @@
-package generateparenthesisproblem;
+package generate_parenthesis_problem;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

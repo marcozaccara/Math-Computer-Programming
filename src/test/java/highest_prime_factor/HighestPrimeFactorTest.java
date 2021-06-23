@@ -1,4 +1,4 @@
-package highestprimefactor;
+package highest_prime_factor;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
